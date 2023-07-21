@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel, Android**
 
-- 📝 I regularly write articles on [medium.com/@sojijr](https://medium.com/@sojijr)
+- 📝 I write articles on [medium.com/@sojijr](https://medium.com/@sojijr)
 
 - 📫 You can reach me: **dammysoji11@gmail.com**
 
