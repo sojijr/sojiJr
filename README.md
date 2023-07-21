@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sojijr" target="blank"><img src="https://img.shields.io/twitter/follow/sojijr?logo=twitter&style=for-the-badge" alt="sojijr" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Android**
+- 🌱 I’m currently learning **Android**
 
 - 📝 I write articles on [medium.com/@sojijr](https://medium.com/@sojijr)
 
