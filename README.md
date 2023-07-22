@@ -13,10 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/sojijr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sojijr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sojijr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sojijr" height="30" width="40" /></a>
-<a href="https://medium.com/@sojijr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sojijr" height="30" width="40" /></a>
-
 <a href="https://medium.com/@sojijr" target="blank"><img align="center" src="https://www.iconfinder.com/icons/7079375/download/svg/4096" alt="@sojijr" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
