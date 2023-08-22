@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="MySQL Badge">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sojijr&show_icons=true&locale=en&layout=compact" alt="sojijr" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sojijr&show_icons=true&locale=en&layout=compact" alt="sojijr" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sojijr&show_icons=true&locale=en" alt="sojijr" /></p>
 
