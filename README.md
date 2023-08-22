@@ -33,5 +33,10 @@
 <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
 
 <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="MySQL Badge">
-
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sojijr&show_icons=true&locale=en&layout=compact" alt="sojijr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sojijr&show_icons=true&locale=en" alt="sojijr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojijr&" alt="sojijr" /></p>
