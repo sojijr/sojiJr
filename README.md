@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Damilola Soji-Oderinde</h1>
 <h3 align="center">A PHP Developer interested in Mobile Dev .kt</h3>
 
-<p align="left"> <a href="https://twitter.com/sojijr" target="blank"><img src="https://img.shields.io/twitter/follow/sojijr?logo=twitter&style=for-the-badge" alt="sojijr" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/sojijr" target="blank"><img src="https://img.shields.io/twitter/follow/sojijr?logo=twitter&style=for-the-badge" alt="sojijr" /></a> 
+  <a href="https://sojijr.github.io/portfolio" target="blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
+</p>
 
 - 🧑‍💻 I’m currently learning **Android**
 
