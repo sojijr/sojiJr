@@ -45,5 +45,5 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sojijr&show_icons=true&locale=en" alt="sojijr" height="180" width="400"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojijr&theme=default&hide_border=true" alt="sojijr" height="180" width="400"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojijr&theme=default" alt="sojijr" height="180" width="400"/>
 </p>
