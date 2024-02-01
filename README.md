@@ -6,7 +6,7 @@
   <a href="https://sojijr.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
 </p>
 
-- 🧑‍💻 I’m currently learning **Python** and **Laravel**
+- 🧑‍💻 I’m currently learning **Laravel**
 
 - 📝 I write articles on [medium.com/@sojijr](https://medium.com/@sojijr)
 
