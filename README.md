@@ -39,11 +39,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sojijr&show_icons=true&locale=en&layout=compact" alt="sojijr" height="150" width="700" />
-</p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sojijr&theme=react&show_icons=true&locale=en" alt="sojijr" height="180" width="400"/>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sojijr&show_icons=true&locale=en" alt="sojijr" height="180" width="400"/>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojijr&theme=default" alt="sojijr" height="180" width="400"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojijr&theme=react" alt="sojijr" height="180" width="400"/>
 </p>
