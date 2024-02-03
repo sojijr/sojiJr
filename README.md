@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Oluwadamilola Soji-Oderinde</h1>
-<h3 align="center">A PHP Developer</h3>
 
 <p align="left"> 
   <a href="https://twitter.com/sojijr" target="_blank"><img src="https://img.shields.io/twitter/follow/sojijr?logo=twitter&style=for-the-badge" alt="sojijr" /></a> 
