@@ -38,7 +38,11 @@
 </p>
 
 <p>
+  <a href="https://www.github.com/sojijr">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sojijr&theme=react&show_icons=true&locale=en" alt="sojijr" height="180" width="400"/>
+  </a>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojijr&theme=react" alt="sojijr" height="180" width="400"/>
+<a href="https://www.github.com/sojijr">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojijr&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="sojijr" height="180" width="400"/>
+</a>
 </p>
