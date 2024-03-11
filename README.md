@@ -46,3 +46,5 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojijr&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="sojijr" height="180" width="400"/>
 </a>
 </p>
+
+<a href="https://www.buymeacoffee.com/sojijr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
