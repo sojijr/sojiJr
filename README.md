@@ -7,7 +7,7 @@
 
 - 🧑‍💻 I’m currently learning **Laravel**
 
-- 📝 I write articles on [medium.com/@sojijr](https://medium.com/@sojijr)
+- 📝 I write articles on [sojijr.hashnode.dev](https://sojijr.hashnode.dev) and blog posts on [medium.com/@sojijr](https://medium.com/@sojijr) 
 
 - 📫 You can reach me: **dammysoji11@gmail.com**
 
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/sojijr" target="blank"><img align="center" src="https://raw.githubusercontent.com/sojijr/portfolio/bf230724258eb19ffe3ca311935f2f8f3b5ce140/public/images/x.svg" alt="sojijr" height="28" width="40" /></a>
 <a href="https://linkedin.com/in/sojijr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sojijr" height="30" width="40" /></a>
+<a href="https://sojijr.hashnode.dev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/44672399/129309851-c9312414-0e90-48ba-9017-8323c6ca6dd3.png" alt="@sojijr" width="30" /></a>
 <a href="https://medium.com/@sojijr" target="blank"><img align="center" src="https://www.iconfinder.com/icons/7079375/download/svg/4096" alt="@sojijr" height="30" width="40" /></a>
 </p>
 
