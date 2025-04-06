@@ -5,8 +5,8 @@
   <a href="https://sojijr.me" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
 </p>
 
-- I write technical articles on: [sojijr.hashnode.dev](https://sojijr.hashnode.dev)
-- I write blog posts on: [medium.com/@sojijr](https://medium.com/@sojijr) 
+- I write technical articles: [sojijr.hashnode.dev](https://sojijr.hashnode.dev)
+- I write blog posts: [medium.com/@sojijr](https://medium.com/@sojijr) 
 
 - You can reach me: **dammysoji11@gmail.com**
 
